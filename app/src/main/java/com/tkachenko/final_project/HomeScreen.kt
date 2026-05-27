@@ -50,7 +50,7 @@ fun HomeScreen(
     }
 }
 
-showBackground = true
+@Preview(showBackground = true)
 @Composable
 fun PreviewHomeScreen() {
 
